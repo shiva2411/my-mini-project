@@ -16,11 +16,9 @@ This mini project is built using **Python**, **Flask**, and **Machine Learning (
 1. Clone the repo:
 git clone https://github.com/shiva2411/my-mini-project.git
 
-markdown
 2. Install required libraries:
 pip install -r requirements.txt
 
-markdown
 3. Start the Flask server:
 python app.py
 
